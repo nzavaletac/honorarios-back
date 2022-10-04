@@ -1,0 +1,8 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "Backend de Honorarios de zvz",
+  "main": "index.js",
+  "author": "Noe Zavaleta Cardeña",
+  "license": "MIT"
+}
